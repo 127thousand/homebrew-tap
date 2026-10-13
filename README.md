@@ -1,8 +1,11 @@
 # 127 Thousand's Homebrew tap
 
 ```
-brew install --cask 127thousand/tap/hackmarket
+brew tap 127thousand/tap
+brew install --cask hackmarket
 ```
+
+Tapping first marks the tap as trusted; Homebrew only loads casks from trusted taps.
 
 | Cask | App |
 |---|---|
