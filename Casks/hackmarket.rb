@@ -1,6 +1,6 @@
 cask "hackmarket" do
-  version "1.1.0,27"
-  sha256 "90920f31162150f2505f67ee15dfee08aaf676a35efcf94024fdccc42f8ca0ed"
+  version "1.1.0,28"
+  sha256 "270957d219ced1d943f3cf66e74147f259ff612980da37e37efe669502c59846"
 
   url "https://download.hackmarket.dev/hackmarket-#{version.csv.first}-#{version.csv.second}.dmg"
   name "HackMarket"
